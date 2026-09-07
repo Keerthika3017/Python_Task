@@ -1,4 +1,3 @@
-
 name=input("enter a name:")
 print(name.upper())
 
@@ -45,10 +44,6 @@ for i in range(1,b):
     n=str(input())
     a.append(n)
     print(a)
-
-a=[]
-b=int(input("enter a value:"))
-for i in range 
 
 
 
